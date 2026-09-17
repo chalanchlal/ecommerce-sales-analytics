@@ -90,12 +90,12 @@ E-Commerce-Sales-Analytics/
 
 ### Main Dashboard
 
-![Main Dashboard](05_Screenshots/01_Main_Dashboard.png)
+![Main Dashboard](5.Screen_shot/Main_Dashboard.png)
 
 ### AI Business Insights
 
-![AI Business Insights](05_Screenshots/02_AI_Business_Insights.png)
+![AI Business Insights](5.Screen_shot/AI_Business_Insights.png)
 
 ### EER Diagram
 
-![EER Diagram](05_Screenshots/03_EER_Diagram.png)
+![EER Diagram](5.Screen_shot/EER_Diagram.png)
