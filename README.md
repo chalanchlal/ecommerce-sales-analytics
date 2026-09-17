@@ -94,8 +94,8 @@ E-Commerce-Sales-Analytics/
 
 ### AI Business Insights
 
-![AI Business Insights](5.Screen_shot/AI_Business_Insights.png)
+![AI Business Insights](5.screen%20shot/AI_business_insight.png)
 
 ### EER Diagram
 
-![EER Diagram](5.Screen_shot/EER_Diagram.png)
+![EER Diagram](5.screen%20shot/EER_diagram.png)
