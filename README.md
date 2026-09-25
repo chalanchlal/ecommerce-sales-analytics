@@ -90,7 +90,7 @@ E-Commerce-Sales-Analytics/
 
 ### Main Dashboard
 
-![Main Dashboard](5.screen%20shot/AI_business_inight.png)
+![Main Dashboard](5.screen%20shot/AI_business_insight.png)
 
 ### AI Business Insights
 
